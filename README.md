@@ -7,4 +7,9 @@ ______________________________
 - **Article:** Copy group permissions on tables in Azure Databricks without API *(https://medium.com/@protmaks/copy-group-permissions-on-tables-in-azure-databricks-without-api-026ece9599cb)*
 ______________________________
 - **File:** https://github.com/protmaks/Azure-Databricks/blob/main/Graph_of_Table_Dependencies.ipynb
-- - **Article:** https://medium.com/@protmaks/auto-analysis-of-databricks-script-and-building-of-topological-graph-of-table-dependencies-in-626601bb3ee1
+- **Article:** https://medium.com/@protmaks/auto-analysis-of-databricks-script-and-building-of-topological-graph-of-table-dependencies-in-626601bb3ee1
+______________________________
+
+______________________________
+
+______________________________
