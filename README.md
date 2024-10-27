@@ -9,7 +9,9 @@ ______________________________
 - **File:** https://github.com/protmaks/Azure-Databricks/blob/main/Graph_of_Table_Dependencies.ipynb
 - **Article:** https://medium.com/@protmaks/auto-analysis-of-databricks-script-and-building-of-topological-graph-of-table-dependencies-in-626601bb3ee1
 ______________________________
-
+- **File:** [Azure-Databricks/set owner for tables in schemas HIVE.py](https://github.com/protmaks/Azure-Databricks/blob/main/set%20owner%20for%20tables%20in%20schemas%20HIVE.py)
+- **Article:** [Set Owners for Databricks Tables in HIVE Catalog Schemas](https://medium.com/@protmaks/set-owners-for-databricks-tables-in-hive-catalog-schemas-653d1a4ae8cf)
 ______________________________
-
+- **File:** [Azure-Databricks/set owner for tables in schemas UNITY.py](https://github.com/protmaks/Azure-Databricks/blob/main/set%20owner%20for%20tables%20in%20schemas%20UNITY.py)
+- **Article:** [Set Owners for Databricks Tables in UNITY Catalog Schemas](https://medium.com/@protmaks/set-owners-for-databricks-tables-in-unity-catalog-schemas-ee140b024f9f)
 ______________________________
